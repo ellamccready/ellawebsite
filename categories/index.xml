@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ella McCready - Singer, Songwriter, Rockstar</title>
+    <link>https://stalwart-mandazi-720cd3.netlify.app/categories/</link>
+    <description>Recent content in Categories on Ella McCready - Singer, Songwriter, Rockstar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 13 Jul 2020 13:06:26 +0600</lastBuildDate><atom:link href="https://stalwart-mandazi-720cd3.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documentation</title>
+      <link>https://stalwart-mandazi-720cd3.netlify.app/categories/documentation/</link>
+      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
+      
+      <guid>https://stalwart-mandazi-720cd3.netlify.app/categories/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://stalwart-mandazi-720cd3.netlify.app/categories/development/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://stalwart-mandazi-720cd3.netlify.app/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://stalwart-mandazi-720cd3.netlify.app/categories/travel/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://stalwart-mandazi-720cd3.netlify.app/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
